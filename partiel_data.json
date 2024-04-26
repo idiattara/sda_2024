@@ -1,0 +1,9 @@
+{
+	"courses" : [
+                {"Name" : "Hadoop","Fee" : 7000},
+                {"Prof" : "DIATTARA", "handle":["Hadoop", "JAVA"]},
+                {"Prof" : "DIOP", "handle":["Spark", "JAVA", "PHP"]},
+                {"Name" : "Spark","Fee" : 8000}
+               ],
+ 	"Group" : [{"Name" : "GTYF","Town" : "Nitin Sharma"}]
+ }
