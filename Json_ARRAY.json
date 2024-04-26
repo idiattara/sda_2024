@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "titi",
+        "ville": "paris",
+        "age": "23"
+    },
+    {
+        "nom": "toto",
+        "ville": "lion",
+        "age": "18"
+    },
+    {
+        "nom": "tata",
+        "ville": "paris",
+        "age": "78"
+    }
+]
