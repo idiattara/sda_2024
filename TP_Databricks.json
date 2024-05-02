@@ -1,0 +1,92 @@
+{
+    "Transaction": [
+        {
+            "IdTransaction": 1,
+            "Prix": 20,
+            "TypeProduit":"Laitier",
+            "Devis": "EUR",
+            "Pays": "France"
+        }
+        ,
+        {
+            "IdTransaction": 2,
+            "Prix": 5000,
+            "TypeProduit":"Boison",
+            "Devis": "TND",
+            "Pays": "Tunisie"
+        }
+        ,
+        {
+            "IdTransaction": 3,
+            "Prix": 200,
+            "TypeProduit":"Electronique",
+            "Devis": "USD",
+            "Pays": "Senegal"
+        },
+
+
+        {
+            "IdTransaction": 4,
+            "Prix": 200,
+            "TypeProduit":"Laitier",
+            "Devis": "EUR",
+            "Pays": "France"
+        },
+
+       {
+            "IdTransaction": 5,
+            "Prix": 205,
+            "TypeProduit":"Boison",
+            "Devis": "EUR",
+            "Pays": "France"
+        }
+        ,
+         {
+            "IdTransaction": 6,
+            "Prix": 500,
+            "TypeProduit":"Laitier",
+            "Devis": "TND",
+            "Pays": "Tunisie"
+        },
+
+      {
+            "IdTransaction": 7,
+            "Prix": 145000,
+            "TypeProduit":"Electronique",
+            "Devis": "TND",
+            "Pays": "Tunisie"
+        }
+        
+        ,
+        {
+            "IdTransaction": 8,
+            "Prix": 200,
+            "TypeProduit":"Electronique",
+            "Devis": "CFA",
+            "Pays": "Senegal"
+        }
+        
+    ]
+    ,
+    "Devis": [
+        {
+            "Taux": 1.0,
+            "Devis": "EUR"
+        }
+        ,
+        {
+            "Taux": 0.88,
+            "Devis": "USD"
+        },
+
+	{
+            "Taux": 0.0015,
+            "Devis": "CFA"
+        },
+        {
+            "Taux": 0.31,
+            "Devis": "TND"
+        }
+        
+    ]
+}
