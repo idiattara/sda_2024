@@ -20,10 +20,6 @@ object ConfigurationParser {
   }
    */
 
-
-  def getJsonReaderConfigurationFromJson(jsonString: String): JsonReader = {
-    JsonMethods.parse(FileReaderUsingIOSource.getContent(jsonString)).extract[JsonReader]
-  }
 }
 
 
