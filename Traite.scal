@@ -1,0 +1,27 @@
+// Définition du trait
+trait Animal {
+  def sound(): String  // Méthode abstraite
+  def sleep(): Unit = println("Sleeping...") // Méthode avec une implémentation
+}
+
+// Classe qui implémente le trait
+class Dog extends Animal {
+  def sound(): String = "Woof!"  // Implémentation de la méthode sound
+}
+
+// Classe qui implémente le trait
+class Cat extends Animal {
+  def sound(): String = "Meow!"  // Implémentation de la méthode sound
+}
+
+// Utilisation des classes
+object Main extends App {
+  val dog = new Dog
+  val cat = new Cat
+  
+  println(dog.sound())  // "Woof!"
+  dog.sleep()           // "Sleeping..."
+
+  println(cat.sound())  // "Meow!"
+  cat.sleep()           // "Sleeping..."
+}
