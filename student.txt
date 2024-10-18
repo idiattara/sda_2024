@@ -1,0 +1,11 @@
+ID,Prénom,Nom,Âge,Ville
+1,John,Doe,22,New York
+2,Jane,Smith,21,Los Angeles
+3,Michael,Brown,23,New York
+4,Emily,Davis,20,Houston
+5,Chris,Wilson,22,Phoenix
+6,Sarah,Johnson,19,Philadelphia
+7,David,Lee,24,San Antonio
+8,Amy,White,22,San Diego
+9,Robert,Garcia,21,Dallas
+10,Linda,Martinez,23,San Jose
